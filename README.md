@@ -1,5 +1,5 @@
 # Pipeline-for-T5-translator
-This repository implements a pipeline for training the T5 model for translation from English to Russian. 
+This repository implements a pipeline for training the T5 model for translation from English to Russian. The model with huggingface t5-small is used as the T5 model.
 
 - configs
   - data_config.yaml
