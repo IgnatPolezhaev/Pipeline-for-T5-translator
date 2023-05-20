@@ -19,16 +19,16 @@ This repository implements a pipeline for training the T5 model for translation 
 
 data_config.yaml and model_config.yaml contain training parameters
 
-datamodule_t5.py
+datamodule_t5.py prepares data and creates dataloads
 
-tokenizer_t5.py
+tokenizer_t5.py tokenizers the data
 
-utils.py
+utils.py contains some additionals functions
 
-seq2seq_t5.py
+seq2seq_t5.py contains model T5
 
-trainer.py
+trainer.py 
 
-metrics.py
+metrics.py counts the BLEU metric
 
-File txt_logger.py writes logs to file progress_log.txt
+txt_logger.py writes logs to file progress_log.txt
