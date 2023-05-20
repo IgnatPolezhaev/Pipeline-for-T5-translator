@@ -1,0 +1,7 @@
+---
+model: 't5-small'
+token: 't5-small'
+embedding_size: 512
+hidden_size: 512
+learning_rate: 0.001
+epoch_num: 100
