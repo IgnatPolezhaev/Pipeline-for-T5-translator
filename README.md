@@ -1,5 +1,5 @@
 # Pipeline-for-T5-translator
-This repository implements a pipeline for training the T5 model for translation from English to Russian.
+This repository implements a pipeline for training the T5 model for translation from English to Russian. 
 
 - configs
   - data_config.yaml
@@ -31,4 +31,4 @@ trainer.py
 
 metrics.py
 
-File txt_logger.py writels logs to file progress_log.txt
+File txt_logger.py writes logs to file progress_log.txt
