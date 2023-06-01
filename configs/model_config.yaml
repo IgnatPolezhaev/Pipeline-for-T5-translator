@@ -1,5 +1,0 @@
----
-model: 't5-small'
-token: 't5-small'
-learning_rate: 0.001
-epoch_num: 100
